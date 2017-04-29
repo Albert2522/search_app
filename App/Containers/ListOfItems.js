@@ -64,7 +64,9 @@ export default class ListviewSectionsExample extends React.Component {
         this.favoriteButton(item, item.source)
       })
     } else {
-      this.allRequests(props)
+      if (this.props.search_key !== props.search_key || this.props.sources.length !== 3) {
+        this.allRequests(props)
+      }
     }
   }
 

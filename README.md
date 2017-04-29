@@ -1,9 +1,12 @@
 #  search_app
 
-##Demo
+## Demo
 
+Take a look how the application works!
 
-##Description
+[Video](https://youtu.be/tBpKEpuHJb0)
+
+## Description
 Search_app is an iOS app built using React Native. The app is intended
 to make searching across multiple sale sites easy. Users may search for
 any particular item they are looking to buy, and have the option to add
