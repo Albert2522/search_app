@@ -4550,6 +4550,10 @@ react-native-mock@^0.3.1:
     react-timer-mixin "^0.13.3"
     warning "^2.1.0"
 
+react-native-search-box@0.0.7:
+  version "0.0.7"
+  resolved "https://registry.yarnpkg.com/react-native-search-box/-/react-native-search-box-0.0.7.tgz#5970252c127cdc8bf06e53be53a4c1967487011a"
+
 react-native-tab-view@^0.0.57:
   version "0.0.57"
   resolved "https://registry.yarnpkg.com/react-native-tab-view/-/react-native-tab-view-0.0.57.tgz#715e2ea4100fa50168e134df3947dd76ebd55743"
