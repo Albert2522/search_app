@@ -4,7 +4,7 @@
 
 Take a look how the application works!
 
-[Video](https://youtu.be/tBpKEpuHJb0)
+[![Video](https://github.com/Albert2522/search_app/blob/master/images/Screen%20Shot%202017-04-29%20at%201.58.42%20PM.png)](https://youtu.be/tBpKEpuHJb0)
 
 ## Description
 Search_app is an iOS app built using React Native. The app is intended
