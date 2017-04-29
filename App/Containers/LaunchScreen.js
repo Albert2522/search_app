@@ -6,7 +6,6 @@ import Search from 'react-native-search-box';
 import Modal from 'react-native-modalbox'
 import { Images, Colors } from '../Themes'
 import Icon from 'react-native-vector-icons/Ionicons'
-import SafariView from 'react-native-safari-view'
 import SettingsModal from './SettingsModal'
 import ListOfFavorite from './ListOfFavorite1'
 import CheckBox from 'react-native-checkbox'
