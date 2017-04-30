@@ -2,7 +2,7 @@
 
 ## Demo
 
-Take a look how the application works!
+Take a look how the application works or go to [demo page](https://albert2522.github.io/search_app)!
 
 [![Video](https://github.com/Albert2522/search_app/blob/master/images/Screen%20Shot%202017-04-29%20at%201.58.42%20PM.png)](https://youtu.be/tBpKEpuHJb0)
 
