@@ -7,7 +7,7 @@ Take a look how the application works!
 [![Video](https://github.com/Albert2522/search_app/blob/master/images/Screen%20Shot%202017-04-29%20at%201.58.42%20PM.png)](https://youtu.be/tBpKEpuHJb0)
 
 ## Description
-Search_app is an iOS app built using React Native. The app is intended
+[Search_app](https://albert2522.github.io/search_app) is an iOS app built using React Native. The app is intended
 to make searching across multiple sale sites easy. Users may search for
 any particular item they are looking to buy, and have the option to add
 the item to the favorite items list which is available offline.
